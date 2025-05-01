@@ -1,0 +1,21 @@
+{
+  "id": 101,
+  "name": "Alice Johnson",
+  "email": "alice@example.com",
+  "address": {
+    "street": "123 Maple St",
+    "city": "Springfield",
+    "zipcode": "12345"
+  },
+  "skills": ["Java", "Golang", "Docker"],
+  "projects": [
+    {
+      "name": "Inventory System",
+      "duration": "6 months"
+    },
+    {
+      "name": "Billing App",
+      "duration": "3 months"
+    }
+  ]
+}
